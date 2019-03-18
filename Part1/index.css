@@ -34,3 +34,17 @@
     text-align: center;
     font-size: 2em;
 }
+#reset-game {
+    text-align: center;
+        border: none;
+        padding: 0.6em 1.2em;
+        background: grey;
+        color: blue;
+        font-size: 1em;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        cursor: crosshair;
+        display: inline-block;
+        margin: 3px 2px;
+        border-radius: 2px;
+}
